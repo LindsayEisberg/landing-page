@@ -1,0 +1,14 @@
+{
+  "name": "landing-page",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "Materialize": "materialize#~0.97.3",
+    "font-awesome": "~4.5.0",
+    "Parallax-ImageScroll": "~0.2.3"
+  },
+  "devDependencies": {
+    "chai": "~3.4.2",
+    "mocha": "~2.3.4"
+  }
+}

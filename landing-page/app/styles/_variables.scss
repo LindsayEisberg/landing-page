@@ -1,0 +1,36 @@
+//Colors
+
+$muscBlue: #00447c;
+$light-gray: #DADADA;
+$light-blue: #D9E4E5;
+$musc-orange: #d57800;
+$dark-blue: #41748D;
+$button-green: #49948E;
+$dark-gray: #3D3D3D;
+$hover-blue: #67C9D0;
+$musc-green: #8ab43d;
+$black: #000;
+$white: #fff;
+$bg-light: #A8C7CF;
+
+
+
+//font
+@font-face {
+ font-family: 'avenir-book';
+ src: url("../fonts/avenir-book-45.otf");
+}
+@font-face {
+ font-family: 'avenir-roman';
+ src: url("../fonts/avenir-roman-55.otf");
+}
+
+@font-face {
+  font-family: 'roboto';
+  src: url("/bower_components/Materialize/font/roboto/Roboto-Regular.ttf");
+}
+
+$paraFont: Arial, helvetica, sans-serif;
+$headRoman:'avenir-roman', helvetica, sans-serif;
+$headBook:'avenir-book', helvetica, sans-serif;
+$roboto: 'roboto', arial, sans-serif;
